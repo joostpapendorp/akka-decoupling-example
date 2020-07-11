@@ -1,4 +1,6 @@
-name := "template"
+import org.apache.logging.log4j.core.config.plugins.util.ResolverUtil.Test
+
+name := "akka-decoupling-example"
 organization := "nl.papendorp"
 version := "0.1-SNAPSHOT"
 
